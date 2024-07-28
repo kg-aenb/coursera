@@ -1,2 +1,1 @@
-# coursera
-test readme file
+# coursera courses
